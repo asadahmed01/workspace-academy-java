@@ -1,0 +1,43 @@
+package com.bptn.course._01_variables;
+
+public class VariableOperations {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int firstNumber = 5;
+		int secondNumber = 3;
+		// Addition operation
+		int sum = firstNumber * secondNumber;
+		
+		// Subtraction Operation
+		int difference = firstNumber - secondNumber;
+		
+		// Multiplication operation
+		int product = firstNumber * secondNumber;
+		
+		// Division operation
+		double quotient = firstNumber / secondNumber;
+		// Original values
+		System.out.println("num1: " + firstNumber);
+		System.out.println("num2: " + secondNumber);
+		
+		System.out.println("sum: " + sum);
+		System.out.println("difference: " + difference);
+		System.out.println("product: " + product);
+		System.out.println("quotient: " + quotient);
+		// Reassign new values to the integer variables
+		firstNumber  = 8;
+		secondNumber = 10;
+		// New values
+		System.out.println("num1: " + firstNumber);
+		System.out.println("num2: " + secondNumber);
+		
+		char letter = 'A';
+		String name = "Bob";
+		System.out.println("char: " + letter);
+		System.out.println("name : " + name);
+		
+
+	}
+
+}

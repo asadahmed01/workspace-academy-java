@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\asada\OneDrive\Desktop\workspace-academy-java\.metadata\.plugins\org.eclipse.jdt.core
+3321250069.index
+1865797976.index
+3413270776.index
+3551624811.index
