@@ -27,7 +27,7 @@ public class StepsToZero {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// Test 1
-        int num = 8;
+        int num = 123;
         int steps = numberOfSteps(num);
         System.out.println("Number of steps to reduce " + num + " to zero: " + steps);
 
